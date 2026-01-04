@@ -1,0 +1,2 @@
+# Load board Kconfig descriptions.
+osource "C:/Users/Brian/pouch_gateway_clean/zephyr/boards/nordic/nrf9160dk/Kconfig.nrf9160dk"

@@ -1,0 +1,13 @@
+# Target labels
+ controller
+# Source files and their labels
+C:/Users/Brian/pouch_gateway_clean/build_controller/_sysbuild/sysbuild/images/CMakeFiles/controller
+C:/Users/Brian/pouch_gateway_clean/build_controller/_sysbuild/sysbuild/images/CMakeFiles/controller.rule
+C:/Users/Brian/pouch_gateway_clean/build_controller/_sysbuild/sysbuild/images/CMakeFiles/controller-complete.rule
+C:/Users/Brian/pouch_gateway_clean/build_controller/_sysbuild/sysbuild/images/controller-prefix/src/controller-stamp/controller-build.rule
+C:/Users/Brian/pouch_gateway_clean/build_controller/_sysbuild/sysbuild/images/controller-prefix/src/controller-stamp/controller-configure.rule
+C:/Users/Brian/pouch_gateway_clean/build_controller/_sysbuild/sysbuild/images/controller-prefix/src/controller-stamp/controller-download.rule
+C:/Users/Brian/pouch_gateway_clean/build_controller/_sysbuild/sysbuild/images/controller-prefix/src/controller-stamp/controller-install.rule
+C:/Users/Brian/pouch_gateway_clean/build_controller/_sysbuild/sysbuild/images/controller-prefix/src/controller-stamp/controller-mkdir.rule
+C:/Users/Brian/pouch_gateway_clean/build_controller/_sysbuild/sysbuild/images/controller-prefix/src/controller-stamp/controller-patch.rule
+C:/Users/Brian/pouch_gateway_clean/build_controller/_sysbuild/sysbuild/images/controller-prefix/src/controller-stamp/controller-update.rule
