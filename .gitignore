@@ -1,0 +1,6 @@
+# Ignore local build outputs
+/build_controller/
+/build_gateway/
+
+# VS Code workspace settings (optional)
+.vscode/

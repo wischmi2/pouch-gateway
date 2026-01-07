@@ -1,9 +1,0 @@
-default: gateway
-build_dir: C:/Users/Brian/pouch_gateway_clean/build_gateway
-domains:
-  - name: gateway
-    build_dir: C:/Users/Brian/pouch_gateway_clean/build_gateway/gateway
-  - name: mcuboot
-    build_dir: C:/Users/Brian/pouch_gateway_clean/build_gateway/mcuboot
-flash_order:
-  - gateway

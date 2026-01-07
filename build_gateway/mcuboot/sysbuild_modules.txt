@@ -1,2 +1,0 @@
-"nrf":"C:/Users/Brian/pouch_gateway_clean/nrf":"C:/Users/Brian/pouch_gateway_clean/nrf/sysbuild"
-"mcuboot":"C:/Users/Brian/pouch_gateway_clean/bootloader/mcuboot":"C:/Users/Brian/pouch_gateway_clean/bootloader/mcuboot/boot/zephyr/sysbuild"

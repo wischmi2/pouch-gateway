@@ -1,7 +1,0 @@
-default: controller
-build_dir: C:/Users/Brian/pouch_gateway_clean/build_controller
-domains:
-  - name: controller
-    build_dir: C:/Users/Brian/pouch_gateway_clean/build_controller/controller
-flash_order:
-  - controller

@@ -1,3 +1,0 @@
-osource "C:/Users/Brian/pouch_gateway_clean/pouch-gateway/boards/shields/*/Kconfig.shield"
-osource "C:/Users/Brian/pouch_gateway_clean/modules/lib/golioth-firmware-sdk/zephyr/boards/shields/*/Kconfig.shield"
-osource "C:/Users/Brian/pouch_gateway_clean/nrf/boards/shields/*/Kconfig.shield"
